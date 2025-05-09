@@ -15,26 +15,51 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 
 <h2>Key Activities in Requirement Analysis</h2>
-1. Requirement Gathering
-- Engage with stakeholders to collect initial requirements.
-- Use various techniques like interviews, surveys, and workshops.
-2. Requirement Elicitation
-- Refine and elaborate on the gathered requirements.
-- Use techniques like brainstorming, focus groups, and prototyping.
-3. Requirement Documentation
-- Document the requirements in a detailed and structured format.
-- Use requirement specification documents, user stories, and use cases.
-4. Requirement Analysis and Modeling
-- Analyze and prioritize the requirements.
-- Create models to visualize and understand the requirements.
-5. Requirement Validation
-- Review and validate the requirements with stakeholders.
-- Define acceptance criteria and ensure traceability.
+<ol>
+  
+  <li>Requirement Gathering
+    <ul>
+      <li>Engage with stakeholders to collect initial requirements.</li>
+      <li>Use various techniques like interviews, surveys, and workshops.</li>
+    </ul>
+  </li>
+  
+  <li>Requirement Elicitation
+    <ul>
+      <li>Refine and elaborate on the gathered requirements.</li>
+      <li>Use techniques like brainstorming, focus groups, and prototyping.</li>
+    </ul>
+  </li>
+  
+  <li>Requirement Documentation
+    <ul>
+      <li>Document the requirements in a detailed and structured format.</li>
+      <li>Use requirement specification documents, user stories, and use cases.</li>
+    </ul>
+  </li>
+  
+  <li>Requirement Analysis and Modeling
+    <ul>
+      <li>Analyze and prioritize the requirements.</li>
+      <li>Create models to visualize and understand the requirements.</li>
+    </ul>
+  </li>
+  
+  <li>Requirement Validation
+    <ul>
+      <li>Review and validate the requirements with stakeholders.</li>
+      <li>Define acceptance criteria and ensure traceability.</li>
+    </ul>
+  </li>
+</ol>
+
 
 <h2>Types of Requirements</h2>
-- Functional Requirements
+<ul>
+  <li>Functional Requirements
 Definition: Describe what the system should do.
-Examples: User authentication, property search, booking system, user registration.
-- Non-functional Requirements
+Examples: User authentication, property search, booking system, user registration.</li>
+  <li>Non-functional Requirements
 Definition: Describe how the system should perform.
-Examples: Performance, security, scalability, usability, reliability.
+Examples: Performance, security, scalability, usability, reliability.</li>
+</ul>
